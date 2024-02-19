@@ -1,0 +1,65 @@
+{
+    "places": [
+      {
+        "id": 1,
+        "name": "Colosseo",
+        "address": "Piazza del Colosseo",
+        "country": "Italy"
+      },
+      {
+        "id": 2,
+        "name": "Statua della Libertà",
+        "address": "Liberty Island",
+        "country": "United States"
+      },
+      {
+        "id": 3,
+        "name": "Torre Eiffel",
+        "address": "Champ de Mars",
+        "country": "France"
+      },
+      {
+        "id": 4,
+        "name": "Machu Picchu",
+        "address": "Cusco Region",
+        "country": "Peru"
+      },
+      {
+        "id": 5,
+        "name": "Great Wall of China",
+        "address": "Various locations",
+        "country": "China"
+      },
+      {
+        "id": 6,
+        "name": "Sydney Opera House",
+        "address": "Bennelong Point",
+        "country": "Australia"
+      },
+      {
+        "id": 7,
+        "name": "Santorini",
+        "address": "Aegean Sea",
+        "country": "Greece"
+      },
+      {
+        "id": 8,
+        "name": "Petra",
+        "address": "Ma'an Governorate",
+        "country": "Jordan"
+      },
+      {
+        "id": 9,
+        "name": "Marrakech",
+        "address": "Red City",
+        "country": "Morocco"
+      },
+      {
+        "id": 10,
+        "name": "Kyoto",
+        "address": "Kyoto Prefecture",
+        "country": "Japan"
+      }
+    ]
+  }
+  

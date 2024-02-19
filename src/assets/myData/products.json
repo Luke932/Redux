@@ -1,0 +1,65 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Smartphone Samsung Galaxy S21",
+        "description": "Smartphone Android con schermo AMOLED da 6.2 pollici, fotocamera da 64 MP e processore octa-core.",
+        "price": 799.99
+      },
+      {
+        "id": 2,
+        "name": "Laptop Dell XPS 13",
+        "description": "Laptop ultraleggero con display InfinityEdge da 13.4 pollici, processore Intel Core i5 e SSD da 512 GB.",
+        "price": 1299.99
+      },
+      {
+        "id": 3,
+        "name": "Cuffie Sony WH-1000XM4",
+        "description": "Cuffie over-ear con cancellazione del rumore, autonomia fino a 30 ore e qualità audio premium.",
+        "price": 349.99
+      },
+      {
+        "id": 4,
+        "name": "Fotocamera Canon EOS R5",
+        "description": "Fotocamera mirrorless full-frame con sensore da 45 MP, registrazione video 8K e autofocus avanzato.",
+        "price": 3899.99
+      },
+      {
+        "id": 5,
+        "name": "TV OLED LG C1",
+        "description": "TV OLED 4K da 55 pollici con tecnologia Dolby Vision, processore α9 Gen 4 e funzionalità Smart TV.",
+        "price": 1799.99
+      },
+      {
+        "id": 6,
+        "name": "Apple Watch Series 7",
+        "description": "Smartwatch con display Always-On Retina, resistenza all'acqua e monitoraggio avanzato della salute.",
+        "price": 399.99
+      },
+      {
+        "id": 7,
+        "name": "Drone DJI Mavic Air 2",
+        "description": "Drone con fotocamera 48 MP, autonomia di volo fino a 34 minuti e modalità di volo intelligente.",
+        "price": 799.99
+      },
+      {
+        "id": 8,
+        "name": "Console Sony PlayStation 5",
+        "description": "Console di nuova generazione con processore AMD Ryzen, grafica ray-tracing e SSD ultra veloce.",
+        "price": 499.99
+      },
+      {
+        "id": 9,
+        "name": "Monitor Gaming ASUS ROG Swift PG279Q",
+        "description": "Monitor IPS da 27 pollici con refresh rate di 165Hz, risoluzione 2560x1440 e supporto G-Sync.",
+        "price": 699.99
+      },
+      {
+        "id": 10,
+        "name": "Bose QuietComfort 35 II",
+        "description": "Cuffie wireless con cancellazione del rumore, controllo vocale e batteria fino a 20 ore.",
+        "price": 299.99
+      }
+    ]
+  }
+  
